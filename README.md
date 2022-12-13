@@ -1,1 +1,6 @@
-# promotion-api-java-n-quarkus
+# Promotion Service
+## Use Cases
+* Get a Profile
+* Claim Promotion
+* 
+* 
