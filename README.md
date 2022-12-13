@@ -1,0 +1,1 @@
+# promotion-api-java-n-quarkus
